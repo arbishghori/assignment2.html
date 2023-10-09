@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>table</title>
+</head>
+<body>
+  <table border="1"width="200">
+  <tr>
+   <td bgcolor="green"><font color="black">H</td>
+   <td colspan="16"></td>
+   <td bgcolor="pink"><font color="black">He</td>
+  </tr>
+
+  <tr>
+   <td bgcolor="red"><font color="white">Li</td>
+   <td bgcolor="orange"><font color="white">Be</td>
+   <td colspan="10"></td>
+   <td bgcolor="yellow"><font color="black">B</td>
+   <td bgcolor="green"><font color="black">C</td>
+   <td bgcolor="green"><font color="black">N</td>
+   <td bgcolor="green"><font color="black">O</td>
+   <td bgcolor="green"><font color="black">F</td>
+   <td bgcolor="pink"><font color="black">Ne</td>
+  </tr>
+
+  <tr>
+   <td bgcolor="red"><font color="white">Na</td>
+   <td bgcolor="orange"><font color="white">Mg</td>
+   <td colspan="10"></td>
+   <td bgcolor="purple"><font color="black">Al</td>
+   <td bgcolor="yellow"><font color="black">Si</td>
+   <td bgcolor="green"><font color="black">P</td>
+   <td bgcolor="green"><font color="black">S</td>
+   <td bgcolor="green"><font color="black">Cl</td>
+   <td bgcolor="pink"><font color="black">Ar</td>
+  </tr>
+
+  <tr>
+   <td bgcolor="red"><font color="white">K</td>
+   <td bgcolor="orange"><font color="white">Ca</td>
+   <td bgcolor="blue"><font color="black">Sc</td>
+   <td bgcolor="blue"><font color="black">Ti</td>
+   <td bgcolor="blue"><font color="black">V</td>
+   <td bgcolor="blue"><font color="black">Cr</td>
+   <td bgcolor="blue"><font color="black">Mn</td>
+   <td bgcolor="blue"><font color="black">Fe</td>
+   <td bgcolor="blue"><font color="black">Co</td>
+   <td bgcolor="blue"><font color="black">Ni</td>
+   <td bgcolor="blue"><font color="black">Cu</td>
+   <td bgcolor="purple"><font color="black">Zn</td>
+   <td bgcolor="purple"><font color="black">Ga</td>
+   <td bgcolor="yellow"><font color="black">Ge</td>
+   <td bgcolor="yellow"><font color="black">As</td>
+   <td bgcolor="green"><font color="black">Se</td>
+   <td bgcolor="green"><font color="black">Br</td>
+   <td bgcolor="pink"><font color="black">Kr</td>
+  </tr>
+  
+  <tr>
+   <td bgcolor="red"><font color="white">Rb</td>
+   <td bgcolor="orange"><font color="white">Sr</td>
+   <td bgcolor="blue"><font color="black">Y</td>
+   <td bgcolor="blue"><font color="black">Zr</td>
+   <td bgcolor="blue"><font color="black">Nb</td>
+   <td bgcolor="blue"><font color="black">Mo</td>
+   <td bgcolor="blue"><font color="black">Tc</td>
+   <td bgcolor="blue"><font color="black">Ru</td>
+   <td bgcolor="blue"><font color="black">Rh</td>
+   <td bgcolor="blue"><font color="black">Pd</td>
+   <td bgcolor="blue"><font color="black">Ag</td>
+   <td bgcolor="purple"><font color="black">Cd</td>
+   <td bgcolor="purple"><font color="black">In</td>
+   <td bgcolor="purple"><font color="black">Sn</td>
+   <td bgcolor="yellow"><font color="black">Sb</td>
+   <td bgcolor="yellow"><font color="black">Te</td>
+   <td bgcolor="green"><font color="black">I</td>
+   <td bgcolor="pink"><font color="black">Xe</td>
+  </tr>
+
+  <tr>
+   <td bgcolor="red"><font color="white">Cs</td>
+   <td bgcolor="orange"><font color="white">Ba</td>
+   <td bgcolor="aqua"><font color="black"> </td>
+   <td bgcolor="blue"><font color="black">Hf</td>
+   <td bgcolor="blue"><font color="black">Ta</td>
+   <td bgcolor="blue"><font color="black">W</td>
+   <td bgcolor="blue"><font color="black">Re</td>
+   <td bgcolor="blue"><font color="black">Os</td>
+   <td bgcolor="blue"><font color="black">Ir</td>
+   <td bgcolor="blue"><font color="black">Pt</td>
+   <td bgcolor="blue"><font color="black">Au</td>
+   <td bgcolor="purple"><font color="black">Hg</td>
+   <td bgcolor="purple"><font color="black">Tl</td>
+   <td bgcolor="purple"><font color="black">Pb</td>
+   <td bgcolor="purple"><font color="black">Bi</td>
+   <td bgcolor="purple"><font color="black">po</td>
+   <td bgcolor="yellow"><font color="black">At</td>
+   <td bgcolor="pink"><font color="black">Rn</td>
+  </tr>
+
+  <tr>
+   <td bgcolor="red"><font color="white">Fr</td>
+   <td bgcolor="orange"><font color="white">Ra</td>
+   <td bgcolor="syan"><font color="black"> </td>
+   <td bgcolor="blue"><font color="black">Rf</td>
+   <td bgcolor="blue"><font color="black">Db</td>
+   <td bgcolor="blue"><font color="black">Sg</td>
+   <td bgcolor="blue"><font color="black">Bh</td>
+   <td bgcolor="blue"><font color="black">Hs</td>
+   <td bgcolor="grey"><font color="black">Mt</td>
+   <td bgcolor="grey"><font color="black">Ds</td>
+   <td bgcolor="grey"><font color="black">Rg</td>
+   <td bgcolor="purple"><font color="black">Cn</td>
+   <td bgcolor="grey"><font color="black">Nh</td>
+   <td bgcolor="grey"><font color="black">Fl</td>
+   <td bgcolor="grey"><font color="black">Mc</td>
+   <td bgcolor="grey"><font color="black">Lv</td>
+   <td bgcolor="grey"><font color="black">Ts</td>
+   <td bgcolor="grey"><font color="black">Og</td>
+  </tr>
+  </table>
+  
+  <table border="1"width="200">
+  <tr>
+   <td bgcolor="aqua"><font color="white">La</td>
+   <td bgcolor="aqua"><font color="white">Se</td>
+   <td bgcolor="aqua"><font color="white">Pr</td>
+   <td bgcolor="aqua"><font color="white">Nd</td>
+   <td bgcolor="aqua"><font color="white">Pm</td>
+   <td bgcolor="aqua"><font color="white">Sm</td>
+   <td bgcolor="aqua"><font color="white">Eu</td>
+   <td bgcolor="aqua"><font color="white">Gd</td>
+   <td bgcolor="aqua"><font color="white">Tb</td>
+   <td bgcolor="aqua"><font color="white">Dy</td>
+   <td bgcolor="aqua"><font color="white">Ho</td>
+   <td bgcolor="aqua"><font color="white">Er</td>
+   <td bgcolor="aqua"><font color="white">Tm</td>
+   <td bgcolor="aqua"><font color="white">Yb</td>
+   <td bgcolor="aqua"><font color="white">Lo</td>
+  </tr>
+   
+  <tr>
+   <td bgcolor="syan"><font color="black">Ac</td>
+   <td bgcolor="syan"><font color="black">Th</td>
+   <td bgcolor="syan"><font color="black">Pa</td>
+   <td bgcolor="syan"><font color="black">U</td>
+   <td bgcolor="syan"><font color="black">Np</td>
+   <td bgcolor="syan"><font color="black">Pu</td>
+   <td bgcolor="syan"><font color="black">Am</td>
+   <td bgcolor="syan"><font color="black">Cm</td>
+   <td bgcolor="syan"><font color="black">Bk</td>
+   <td bgcolor="syan"><font color="black">Cf</td>
+   <td bgcolor="syan"><font color="black">Es</td>
+   <td bgcolor="syan"><font color="black">Fm</td>
+   <td bgcolor="syan"><font color="black">Md</td>
+   <td bgcolor="syan"><font color="black">No</td>
+   <td bgcolor="syan"><font color="black">Lr</td>
+  </tr>
+  </table>
+</body>
+</html>
